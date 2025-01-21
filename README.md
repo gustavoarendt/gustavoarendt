@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ Embarking on the journey of software development since 2021. Having 2+ years of professional experience as Fullstack Developer working with microservices using Azure and Agile. Building WebApps with C# .NET and ReactJS, and integrating systems with NodeJS and C#.<br><br>📚 I'm ALWAYS learning, focusing mostly on backend techs lately!<br>🎯 Goals: To solve problems!!</p>
+<p align="left">✨ Embarking on the journey of software development since 2021. Having 4+ years of professional experience as Fullstack Developer working with microservices using Azure and Agile. Building WebApps with C# .NET and ReactJS, and integrating systems with NodeJS and C#.<br><br>📚 I'm ALWAYS learning, focusing mostly on backend techs lately!<br>🎯 Goals: To solve problems!!</p>
 
 ###
 
