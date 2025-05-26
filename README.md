@@ -39,8 +39,6 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
